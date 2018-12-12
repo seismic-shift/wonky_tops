@@ -2,6 +2,7 @@
 A workflow for conditioning and gridding well tops for various purposes including T2D methods
 
 This project was initiated at the inaugural Shell Exploration Hackathon in London, December 2018
+
 The WonkyTops Team consisted of Floris Strijbos, Marina Ten & Tom Wade
 
 ## Getting Started
@@ -10,6 +11,7 @@ A Conda environment containing the following libraries is required:
 
 - Numpy
 - Pandas
-- SciPy<br>
+- SciPy
+- Bruges (for coordinate transforms)<br>
 
 The project is currently in the form of a Jupyter notebook (also required)
